@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bpwg5449
+- 👋 Hi, I’m Brent Parker
 - 👀 I’m interested in Legacy Computers. "Imsai's" 
 - 🌱 I’m currently learning assembly code for 8080
 - 💞️ I’m looking to collaborate on getting s100 bus systems working
